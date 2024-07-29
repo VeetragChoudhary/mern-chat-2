@@ -2,11 +2,8 @@
   "rewrites": [
   {
     "source": "/api/(.*)",
-<<<<<<< HEAD:vercel.json
-    "destination": "/api"
-=======
-    "destination": "../backend"
->>>>>>> 3e129eb34b3036e444ff44fbe2870c0aecdca7ae:frontend/vercel.json
+    "destination": "/server"
+
   }
   ]
 }
