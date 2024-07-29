@@ -34,3 +34,5 @@ server.listen(PORT, () => {
     console.log(`Server started at port ${PORT}`)
     dbConnect()
 })
+
+module.exports = app
