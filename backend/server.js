@@ -35,4 +35,4 @@ server.listen(PORT, () => {
     dbConnect()
 })
 
-module.exports = app
+module.exports = server
